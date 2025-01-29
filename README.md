@@ -10,4 +10,4 @@ This repository contains an implementation of PointNet from scratch, inspired by
   - Uses the implemented architecture to train a PointNet model for classification and segmentation.
   - Trained on the ShapeNet Core Benchmark dataset.
 
-For an interactive version with visualizations, check out this [Kaggle notebook]{https://www.kaggle.com/code/bharath2207/pointnet-application}
+For an interactive version with visualizations, check out this [Kaggle notebook](https://www.kaggle.com/code/bharath2207/pointnet-application)
